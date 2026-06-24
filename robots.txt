@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laurenhouston-byte.github.io/movement-wellness/sitemap.xml
